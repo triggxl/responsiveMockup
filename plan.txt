@@ -1,0 +1,13 @@
+nav bar buttons not matching style of video
+pictures not taking up width of page
+https://www.google.com/search?q=align-items+start+vs+flex-start&rlz=1C5CHFA_enUS785US785&oq=align-items+start&aqs=chrome.1.69i57j0l7.4912j0j4&sourceid=chrome&ie=UTF-8
+
+Resources:
+https://www.youtube.com/watch?v=moBhzSC455o
+https://codepen.io/bradtraversy/pen/gvMGyB
+https://fontawesome.com/
+https://www.pexels.com/
+
+Additional:
+How to Create Website Layouts Using CSS Grid | Learn HTML and CSS | HTML Tutorial
+https://www.youtube.com/watch?v=HgwCeNVPlo0
